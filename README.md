@@ -1,12 +1,12 @@
 <h2 align="left">Hello there 👋</h2>
 <br />
 <h2 align="left">About me</h2>
-<br />
 * 😜 I'm a software Engineer
 <br />
 * 👨‍💻 I spend my free time building random projects lol
 <br />
 <br />
+<h2 align="left">Tech Stack</h2>
 
 ![react](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=blue)
 ![Next](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -24,6 +24,8 @@
 ![Mysql](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+
+<h2 align="left">GitHub Stats</h2>
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=Xuenew&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="lcodepanda's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lcodepanda&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
