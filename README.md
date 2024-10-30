@@ -2,7 +2,7 @@
 <br />
 <h2 align="left">About me</h2>
 <br />
-* 😜 I'm a Full Stack Engineer
+* 😜 I'm a software Engineer
 <br />
 * 👨‍💻 I spend my free time building random projects lol
 <br />
